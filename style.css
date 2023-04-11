@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+html {
+    background-color: rgb(200, 200, 200);
+    padding-top: 1px;
+    padding-left: 2%;
+}
+
+h1, h3{
+    background-color: rgb(140, 140, 140);
+    width: fit-content;
+    padding: 5px;
+    margin: 5px;
+}
+
+p{
+    background-color: rgb(170, 170, 170);
+    width: fit-content;
+    padding: 2px;
+    margin: 3px;
+}
+
+ol, ul{
+    background-color: rgb(190, 190, 190);
+    width: fit-content;
+    padding: 3px;
+    margin: 5px;
+}
+
+li{
+    background-color: rgb(180, 180, 180);
+    width: fit-content;
+    padding: 2px;
+    margin: 3px;
+
+    border: solid 1px;
+}
+
+.titulo_lista{
+    background-color: rgb(170, 170, 170);
+    border: 0px;
+}
+
+footer p{
+    background-color: rgb(200, 200, 200);
+    padding: 0px;
+    margin: 0px;
+}
